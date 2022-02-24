@@ -1,0 +1,26 @@
+========== DATOS DADOS POR B2 =============
+
+keyID: 06f5a73c3371
+keyName: Master Application Key
+applicationKey: 00225e40c78caa49dafc046ec9aae9728e0a3e2e80
+Bucket ID: 40360ff5cae7434c73d30711
+
+AuthorizationKey:applicationKey
+06f5a73c3371:00225e40c78caa49dafc046ec9aae9728e0a3e2e80
+
+Base64: MDZmNWE3M2MzMzcxOjAwMjI1ZTQwYzc4Y2FhNDlkYWZjMDQ2ZWM5YWFlOTcyOGUwYTNlMmU4MA==
+
+"authorizationToken": 4_00206f5a73c33710000000000_01a0782d_5b0f80_acct_dycTUKhuf6DqbYEnl8LBXcyrzDk=
+
+"authorizationToken": 4_00206f5a73c33710000000000_01a07b0c_65ff4c_acct_70YTndtAlXss1PMVCjtvt32cJsM=
+
+"authorizationToken": "4_00206f5a73c33710000000000_01a07cb8_7a3899_upld_EV3k0qiQ2rqL2ZvYtja8KKWHDXQ="
+
+"apiUrl": https://api002.backblazeb2.com
+
+Url para solicitar una URL de cargue de archivos al bucket
+https://api002.backblazeb2.com/b2api/v2/b2_get_upload_url
+
+Url de Cargue devuelta por B2 Cloud Storage
+"uploadUrl": "https://pod-000-1168-03.backblaze.com/b2api/v2/b2_upload_file/40360ff5cae7434c73d30711/c002_v0001168_t0028"
+"uploadUrl": "https://pod-000-1111-12.backblaze.com/b2api/v2/b2_upload_file/40360ff5cae7434c73d30711/c002_v0001111_t0037"
